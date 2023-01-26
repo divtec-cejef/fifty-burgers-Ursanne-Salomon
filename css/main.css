@@ -1,0 +1,65 @@
+/*style générale*/
+body {
+    font-family: Verdana, "sans-serif";
+    font-weight: 400;
+    font-size: 120%;
+    margin: 0;
+    color: black;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 h2{
+    font-family: Georgia, "sans-serif";
+}
+
+h1 {
+    color: #FDC032;
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+/* en tète */
+header {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+
+header img {
+    max-height: 160px;
+}
+
+/* Contenu principale */
+main {
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 600px;
+}
+
+.paragraphe-Intro {
+    font-size: 1.3rem;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    list-style-type: none;
+    padding: 0;
+    max-width: 95%;
+    margin: 40px auto;
+}
+
+ul {
+    background-color: #E8A062;
+}
